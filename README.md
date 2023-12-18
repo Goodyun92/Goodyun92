@@ -1,9 +1,18 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
+
+### Tech Stacks
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+
+<br/>
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+
+  
 </div>
 
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+
 
 
 <!--

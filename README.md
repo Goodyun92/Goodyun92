@@ -2,13 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=40c2c7&section=header)
 
-  <div display='flex' flex-direction='row'>
-    <h3> Languages </h3>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic-square&logo=amazonaws&logoColor=white">
-  </div>
-  
+  ### Languages
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic-square&logo=amazonaws&logoColor=white">
+  <br/>
 
   ### FrameWorks
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>

@@ -1,15 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=40c2c7&section=header)
+<div align='center'>
 
-#### Languages
-<div>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=40c2c7&section=header)
+
+  <div display='flex'>
+    <h3> Languages </h3>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic-square&logo=amazonaws&logoColor=white">
   </div>
-  
-<div align='center'>
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=40c2c7&section=header)
   
 
   ### FrameWorks

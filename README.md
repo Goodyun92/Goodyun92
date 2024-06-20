@@ -1,6 +1,6 @@
   ## Skills
 
-  ### Languages
+  #### Languages
   > Main <div>
     <img src="https://img.shields.io/badge/Java-000000?style=plastic-square&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=c&logoColor=white">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic-square&logo=css3&logoColor=white"/>
   </div>
     
-  ### FrameWorks
+  #### FrameWorks
   > Main <div>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic-square&logo=springsecurity&logoColor=white">
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/styled components-DB7093?style=plastic-square&logo=styledcomponents&logoColor=white">
   </div>
 
-  ### Infra
+  #### Infra
   <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic-square&logo=amazonwebservices&logoColor=white">
     <img src="https://img.shields.io/badge/EC2-FF9900?style=plastic-square&logo=amazonec2&logoColor=white">

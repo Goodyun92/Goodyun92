@@ -1,6 +1,6 @@
   ## Skills
 
-  > Main <div>
+  > Strong <div>
     <img src="https://img.shields.io/badge/Java-000000?style=plastic-square&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/C/C++-00599C?style=plastic-square&logo=cplusplus&logoColor=white">
     </br>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic-square&logo=springsecurity&logoColor=white">
   </div>
 
-  > Sub <div>
+  > Knowledgeable <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic-square&logo=html5&logoColor=white"/>
